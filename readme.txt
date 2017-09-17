@@ -21,7 +21,9 @@ Process :
 3. If you want to close it , hit ctrl+alt+del , in background processes , look for "pythonw" and close it . 
 
 Additional : 
-If you want the program to run byh default everytime you boot up your laptop , click on the windows icon , hit "run" . In the window that opens , type "shell:common startup" if you want this feature to be available for all users , or type "shell:startup" if you want it to be available to the current user. In there , create a shortcut to the checkpower.pyw . 
+If you want the program to run byh default everytime you boot up your laptop , click on the windows icon , hit "run" . 
+In the window that opens , type "shell:common startup" if you want this feature to be available for all users , or type "shell:startup" if you want it to be available to the current user.
+In there , create a shortcut to the checkpower.pyw . 
 
 Tested on : 
 Windows 10 , running Python 2.7 . 
