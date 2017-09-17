@@ -1,5 +1,8 @@
 Why : 
-I don't work at home , usually on campus. I plug my power cord in , then when I leave , I often forget to put the power cord back in my bag. I have to go back and get it after I realize I don't have it a few hours later , which is very irritating . Hopefully , this piece of code helps. 
+I don't work at home , usually on campus. 
+I plug my power cord in , then when I leave , I often forget to put the power cord back in my bag. 
+I have to go back and get it after I realize I don't have it a few hours later , which is very irritating .
+Hopefully , this piece of code helps. 
 
 
 Packages required : 
